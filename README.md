@@ -106,7 +106,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/coursehub.git
+bashgit clone https://github.com/lakshyarohila/EduNext
 cd coursehub
 
 Install dependencies:
